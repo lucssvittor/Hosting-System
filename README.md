@@ -27,7 +27,7 @@ O **Hosting System V1** é um sistema de gerenciamento para hospedagens, desenvo
 🔹 Segurança e autenticação de usuários  
 🔹 Formulários completos e validações  
 🔹 Melhorias no design e experiência do usuário  
-🔹 Implementação completa e melhorias do banco de dados 
+🔹 Implementação completa e melhorias do banco de dados  
 🔹 Dashboard interativo  
 
 
